@@ -114,16 +114,16 @@ body {
   padding: 1em 0;
   color: #000; }
 
-.my-btn {
+.my-questions-btn {
   background: #ED5153;
   padding: 1em 5em;
   border: none;
   border-radius: 3em;
   font-weight: bold;
   font-size: 1em; }
-  .my-btn:hover {
+  .my-questions-btn:hover {
     background: #ED5153; }
-  .my-btn:focus {
+  .my-questions-btn:focus {
     background: #ED5153; }
 
 .footer {
