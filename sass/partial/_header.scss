@@ -1,0 +1,37 @@
+.my-nav {
+	background-color: #FFFFFF!important;
+	// padding: 1em 1.5em;
+	// position: fixed;
+	// top: 0; 
+	// width: 100%;
+}
+
+.my-nav-item-left {
+	&:hover {
+		border-top: .1em solid #ED5153;
+	}
+}
+
+.my-nav-link-left {
+	color: #000!important;	
+}
+
+
+
+.my-nav-link-right {
+	color: #000!important;
+
+	&:hover {
+		color: #ED5153!important;
+	}
+}
+
+.my-nav-link-number {
+	color: #ED5153!important;
+}
+
+.my-btn {
+    padding: 0 1.5em;
+    border-radius: 1em;
+    background-color: #ED5153;
+}

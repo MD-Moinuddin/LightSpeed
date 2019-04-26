@@ -1,0 +1,37 @@
+.bg-left {
+	background-image: url(../img/hero-1.jpg);
+	padding: 15em 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.title {
+	color: #000000;
+	font-size: 3em;
+}
+
+.details {
+	color: #8E8E8E;
+	font-size: 1.2em;
+}
+
+.bg-right {
+	background-image: url(../img/hero-2.jpg);
+	padding: 15em 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.my-hero-btn {
+	border-radius: 2em;
+	padding: .8em 5em;
+	background: #ED5153;
+}
+
+.no-padding-right {
+	padding-right: 0;
+}
+
+.no-padding-left {
+	padding-left: 0;
+}

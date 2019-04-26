@@ -1,0 +1,26 @@
+.question-part {
+	background: #F8F8F8;
+	padding: 3em 0;
+}
+
+.details {
+	padding: 1em 0;
+	color: #000;
+}
+
+.my-btn {
+	background: #ED5153;
+	padding: 1em 5em;
+	border: none;
+	border-radius: 3em;
+	font-weight: bold;
+	font-size: 1em;
+
+	&:hover {
+		background: #ED5153;
+	}
+
+	&:focus {
+		background: #ED5153;	
+	}
+}

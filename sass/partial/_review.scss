@@ -1,0 +1,47 @@
+.review-part {
+	background: #FFFFFF;
+	padding: 10em 0;
+}
+
+.carousel-img {
+	width: 35%;
+	border-radius: 50%;
+}
+
+.arrow-icon {
+	color: #000;
+	font-size: 2em;
+}
+
+.carousel-control-prev {
+    left: 18em;
+    top: 15.5em;
+}
+
+.carousel-control-next {
+    right: 18em;
+    top: 15.5em;
+}
+
+.carousel-indicators {
+	top: 25.75em;
+	background-color: transparent;
+
+
+	// background-color: #000; 
+	li {
+		background-color: #ccc;
+	}
+
+	.active {
+		background-color: #000;
+	}    
+
+}
+
+.review {
+	.comments {
+		padding: 0 12em;
+		margin-top: 8em;
+	}
+}
